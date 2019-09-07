@@ -1,9 +1,10 @@
 # Socket-Basico
 Programa en Python 3 para el uso de un socket Basico<br>
 Modo de ejecucion:<br>
+<br>
 1- Clonar el repositorio.<br>
-2- dar permisos de ejecicion chmod +x DartSecScann.py.<br>
-3- ./DartSecScann.py -t IP/24 O IP<br>
+2- dar permisos de ejecicion chmod +x Mi_primer_Socket.py.<br>
+3- python3 Mi_primer_Socket.py<br>
 <br>
 <br>
 <br>
